@@ -15,9 +15,8 @@ setup(
   long_description_content_type='text/markdown',
   author = 'Junaid Ahmed',                  
   author_email = 'ahmedjunaid109@gmail.com', 
-  url = 'https://github.com/elisemercury/AutoClean', 
-  download_url = 'https://github.com/elisemercury/AutoClean/archive/refs/tags/v1.1.3.tar.gz',
-  keywords = ['automated', 'cleaning', 'preprocessing', "autoclean"],  
+  url = 'https://github.com/Junaidd-Ahmedd109/EasyClean', 
+  keywords = ['automated', 'cleaning', 'preprocessing', "Easyclean"],  
   install_requires=[          
           'scikit-learn',
           'numpy',
@@ -27,8 +26,7 @@ setup(
   classifiers=[
     'Development Status :: 5 - Production/Stable',   
     'Intended Audience :: Developers',      
-    'Topic :: Software Development :: Build Tools',
-    'License :: OSI Approved :: MIT License',    
+    'Topic :: Software Development :: Build Tools',    
     'Programming Language :: Python :: 3.7',
     'Programming Language :: Python :: 3.8',
     'Programming Language :: Python :: 3.9',
