@@ -1,1 +1,1 @@
-from EasyClean.easyclean import easyClean
+from .EasyClean import EasyClean
